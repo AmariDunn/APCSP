@@ -1,7 +1,7 @@
 /*
  Amari Dunn
 9/2/22
-Exercise 2_7
+Exercise 2.7
 Display Years and days
  */
  
